@@ -2,7 +2,8 @@ common.lgthinq.com
 de.emp.lgsmartplatform.com
 de.info.lgsmartad.com
 de.lgeapi.com
-de.lgrecommends.lgappstv.com
+# Can't access apps if blocked
+# de.lgrecommends.lgappstv.com
 de.lgtvsdp.com
 de.rdx2.lgtvsdp.com
 discovery.meethue.com
