@@ -5,7 +5,8 @@ de.lgeapi.com
 # Can't access apps if blocked
 # de.lgrecommends.lgappstv.com
 de.ibs.lgappstv.com
-de.lgtvsdp.com
+# Needed for timesync
+# de.lgtvsdp.com
 de.rdx2.lgtvsdp.com
 discovery.meethue.com
 eic.api.lgtviot.com
