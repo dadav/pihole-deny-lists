@@ -7,7 +7,7 @@ de.lgeapi.com
 de.ibs.lgappstv.com
 # Needed for timesync
 # x.ss2.us
-de.lgtvsdp.com
+# de.lgtvsdp.com
 de.rdx2.lgtvsdp.com
 discovery.meethue.com
 eic.api.lgtviot.com
