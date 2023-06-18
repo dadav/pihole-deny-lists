@@ -1,14 +1,16 @@
-common.lgthinq.com
-de.emp.lgsmartplatform.com
-de.info.lgsmartad.com
-de.lgeapi.com
-# Can't access apps if blocked
+# whitelist
+# de.lgeapi.com
 # de.lgrecommends.lgappstv.com
-de.ibs.lgappstv.com
-# Needed for timesync
-# x.ss2.us
+# de.ibs.lgappstv.com
 # de.lgtvsdp.com
-de.rdx2.lgtvsdp.com
+# de.rdx2.lgtvsdp.com
+# ngfts.lge.com
+# aic-ngfts.lge.com
+# aic.cdpsvc.lgtvcommon.com
+# aic.service.lgtvcommon.com
+# de.emp.lgsmartplatform.com
+common.lgthinq.com
+de.info.lgsmartad.com
 discovery.meethue.com
 eic.api.lgtviot.com
 eic.cdpsvc.lgtvcommon.com
@@ -26,7 +28,6 @@ eic.thinqrecommend.lgtvcommon.com
 gb.lgeapi.com
 lgtvonline.lge.com
 lss.lgthinq.com
-ngfts.lge.com
 noti.lgthinq.com
 objectcontent.lgthinq.com
 qt2-ngfts.lge.com
